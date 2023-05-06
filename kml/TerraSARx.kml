@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>TerraSARx_images</name>
+	<Document>
+		<name>TSX1_20220714T1941</name>
+		<GroundOverlay>
+			<name>SAR scene image</name>
+			<TimeSpan>
+				<begin>2022-07-14</begin>
+				<end>2022-07-14T23:59:00Z</end>
+			</TimeSpan>
+			<Icon>
+				<href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220714T194156_20220714T194221_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-6.430823,-60.760514,0 -1.864398,-60.760514,0 -1.864398,-58.558039,0 -6.430823,-58.558039,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+	<Document>
+		<name>TDX1_20220715T1924-StripMap</name>
+		<TimeSpan>
+			<begin>2022-07-15</begin>
+			<end>2022-07-15T23:59:00Z</end>
+		</TimeSpan>
+		<GroundOverlay>
+			<name>SAR scene image 1</name>
+			<TimeStamp><when>2022-07-15T19:24:32Z</when>
+</TimeStamp>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192432_20220715T192440_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					0.730675,-60.99360099999999,0 1.700368,-60.99360099999999,0 1.700368,-60.416714,0 0.730675,-60.416714,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 2</name>
+			<TimeStamp><when>2022-07-15T19:24:39Z</when>
+</TimeStamp>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192439_20220715T192447_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					0.340413,-60.55531400000001,0 1.293113,-60.55531400000001,0 1.293113,-59.978794,0 0.340413,-59.978794,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 3</name>
+			<TimeStamp><when>2022-07-15T19:24:47Z</when>
+</TimeStamp>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192447_20220715T192455_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-0.046884,-60.107723,0 0.8890570000000001,-60.107723,0 0.8890570000000001,-59.531573,0 -0.046884,-59.531573,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 4</name>
+			<TimeStamp><when>2022-07-15T19:24:55Z</when>
+</TimeStamp>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192455_20220715T192502_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-0.4369170000000001,-59.6618,0 0.495442,-59.6618,0 0.495442,-59.083222,0 -0.4369170000000001,-59.083222,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 5</name>
+			<TimeStamp><when>2022-07-15T19:25:02Z</when>
+</TimeStamp>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192502_20220715T192510_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-0.804674,-59.211939,0 0.09181700000000001,-59.211939,0 0.09181700000000001,-58.638256,0 -0.804674,-58.638256,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 6</name>
+			<TimeStamp><when>2022-07-15T19:25:10Z</when>
+</TimeStamp>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192510_20220715T192518_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-1.163353,-58.761057,0 -0.28194,-58.761057,0 -0.28194,-58.187674,0 -1.163353,-58.187674,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+	<Document>
+		<name>TDX1_20220716T1907</name>
+		<GroundOverlay>
+			<name>SAR scene image</name>
+			<TimeSpan>
+				<begin>2022-07-16</begin>
+				<end>2022-07-16T23:59:00Z</end>
+			</TimeSpan>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_RE___SC_S_SRA_20220716T190742_20220716T190808_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-1.778224,-60.501568,0 3.922202,-60.501568,0 3.922202,-58.092857,0 -1.778224,-58.092857,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+	<Document>
+		<name>TDX1_20220716T1908</name>
+		<GroundOverlay>
+			<name>SAR scene image</name>
+			<TimeSpan>
+				<begin>2022-07-16</begin>
+				<end>2022-07-16T23:59:00Z</end>
+			</TimeSpan>
+			<Icon>
+				<href>TerraSARx_images/TDX1_SAR__MGD_RE___SC_S_SRA_20220716T190807_20220716T190832_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-2.667794,-59.014271,0 2.760468,-59.014271,0 2.760468,-56.63311900000001,0 -2.667794,-56.63311900000001,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+	<Document>
+		<name>TSX1_20220720T1933</name>
+		<GroundOverlay>
+			<name>SAR scene image</name>
+			<TimeSpan>
+				<begin>2022-07-20</begin>
+				<end>2022-07-20T23:59:00Z</end>
+			</TimeSpan>
+			<Icon>
+				<href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220720T193306_20220720T193335_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-3.84668,-61.516992,0 1.023642,-61.516992,0 1.023642,-59.080032,0 -3.84668,-59.080032,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+	<Document>
+		<name>TSX1_20220721T0447-StripMap</name>
+		<TimeSpan>
+			<begin>2022-07-21</begin>
+			<end>2022-07-21T23:59:00Z</end>
+		</TimeSpan>
+		<GroundOverlay>
+			<name>SAR scene image 1 T044710_T044717</name>
+			<Icon>
+				<href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044710_20220721T044717_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-0.862946,-58.35312399999999,0 -0.05488100000000001,-58.35312399999999,0 -0.05488100000000001,-57.850395,0 -0.862946,-57.850395,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 2 T044717_T044723</name>
+			<Icon>
+				<href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044717_20220721T044723_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-1.155279,-58.730018,0 -0.336302,-58.730018,0 -0.336302,-58.226839,0 -1.155279,-58.226839,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 3 T044723_T044730</name>
+			<Icon>
+				<href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044723_20220721T044730_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-1.460438,-59.11455099999999,0 -0.62987,-59.11455099999999,0 -0.62987,-58.610916,0 -1.460438,-58.610916,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>SAR scene image 4 T044730_T044736</name>
+			<Icon>
+				<href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044730_20220721T044736_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-1.772161,-59.498396,0 -0.929739,-59.498396,0 -0.929739,-58.994299,0 -1.772161,-58.994299,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+	<Document>
+		<name>TSX1_20220721T1916</name>
+		<GroundOverlay>
+			<name>SAR scene image</name>
+			<TimeSpan>
+				<begin>2022-07-21</begin>
+				<end>2022-07-21T23:59:00Z</end>
+			</TimeSpan>
+			<Icon>
+				<href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220721T191628_20220721T191650_EPSG4326_QL_KMZ.png</href>
+				<refreshInterval>60</refreshInterval>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>
+					-2.217305,-59.626609,0 0.481039,-59.626609,0 0.481039,-57.967833,0 -2.217305,-57.967833,0 
+				</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+</Folder>
+</kml>
