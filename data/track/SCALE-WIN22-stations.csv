@@ -1,0 +1,23 @@
+﻿VOYAGE,SHIP_STATION_NR,GRID_NUM,NAME,DATETIME_OPEN_UTC,LAT_DEC_OPEN,LON_DEC_OPEN,DATETIME_CLOSED_UTC,LAT_DEC_CLOSE,LON_DEC_CLOSE,SOUNDING,ACTIVITIES
+53,AM01308,22WIN01,SOAK,2022/07/16 07:18,-49.70835,5.93338,2022/07/16 09:13,-49.70872,5.93212,3571,CTD - GoFlo (1000 m + PAR)
+53,AM01309,22WIN01.1,SAILBUOY,2022/07/17 14:08,-53.68788,0.1364,2022/07/17 14:27,-53.68103,0.12583,,Sail Buoy - Retrieval
+53,AM01310,22WIN02,PUZ(PS),2022/07/17 17:45,-53.99895,0.0001,2022/07/18 09:46,-53.99025,0.05995,2547,"Buoyancy Glider - Retrieval; CTD - Niskin (2000 m, 500 m); CTD - GoFlo (2300 m, 130 m); McLane Pump; Marine Snow Catcher; Ship manoeuvres"
+53,AM01311,22WIN03,OD-1,2022/07/19 08:32,-58.29493,-1.3424,2022/07/19 10:15,-58.27717,-1.2959,,Frazil Sampler; Wave buoy deployment (LP8); Pancake ice lifting cancelled (5 ton crane not ready)
+53,AM01312,22WIN04,ICE21(I1),2022/07/19 12:35,-58.66952,-1.2707,2022/07/19 16:17,-58.66803,-1.1302,4216,Overboard sea ice coring; Sea ice buoy: deployment (SB01); Frazil Sampler; CTD - GoFlo (500 m); Wave buoy deployment (LP4)
+53,AM01313,22WIN05,ICE22(I2),2022/07/19 17:35,-58.5518,-0.88413,2022/07/19 23:41,-58.5248,-0.8095,4370,Frazil Sampler; CTD - GoFlo (500 m); Overboard sea ice coring; Sea ice buoy: deployment (SB02); Sea ice buoy: deployment (BB01)
+53,AM01314,22WIN06,ICE23(I3),2022/07/20 01:52,-58.58393,-0.46742,2022/07/20 02:03,-58.58162,-0.46365,,Sea ice buoy: deployment (SB03); Frazil Sampler; Wave buoy deployment (LP2)
+53,AM01315,22WIN07,ICE13(I6),2022/07/20 03:56,-58.771,-0.52212,2022/07/20 04:29,-58.76705,-0.50943,,Station cancelled - no activities
+53,AM01316,22WIN08,ICE12(I5),2022/07/20 08:04,-58.79462,-0.64045,2022/07/20 08:05,-58.79453,-0.64007,,Sea ice buoy: deployment (SB05)
+53,AM01317,22WIN09,ICE11(I4),2022/07/20 10:40,-58.85563,-0.692,2022/07/20 16:23,-58.83268,-0.60065,4753,CTD - GoFlo (500 m); CTD - Niskin (500 m); Sea ice buoy: deployment (SB04); Overboard sea ice coring; Notes:  issues with CTD oxygen sensor
+53,AM01318,22WIN10,ICE00(I0),2022/07/20 19:08,-59.04377,-0.50635,2022/07/20 19:13,-59.04368,-0.50587,,Sea ice buoy: deployment (SB06)
+53,AM01319,22WIN11,OD-2(PS),2022/07/21 01:29,-58.38472,-0.49965,2022/07/21 19:27,-58.40127,-0.64935,4911,"CTD - GoFlo (130 m, 500 m, 4500 m); CTD - Niskin (500 m + PAR and salinity calibration, 2000 m); McLane Pumps; Marine Snow Catcher; Frazil Sampler; Pancake ice lifting; Ship manoeuvres after leaving station and sea ice thickness mapping with EM. Notes: TM container power failure after Deep GoFlo. Bottles stayed on frame in the env hangar longer after retrieval."
+53,AM01320,22WIN12,I0A,2022/07/22 10:56,-59.40472,-0.51032,2022/07/22 11:29,-59.41172,-0.508,5188,CTD - Niskin (500 m + PAR); Sea ice conditions not safe for coring
+53,AM01321,22WIN13,I0B,2022/07/22 12:20,-59.49713,-0.41852,2022/07/22 14:45,-59.53047,-0.44095,,"Overboard sea ice coring; Ship manoeuvres to next station. Notes: exploratory cores + additional cores on small pancake embedded in larger floe. Also collected consolidated slush in the interstitial gap, confirmed to be non-walkable"
+53,AM01322,22WIN14,SB06(I0-PS),2022/07/23 09:47,-59.39732,0.1105,2022/07/24 06:47,-59.16803,0.8298,5045,Sea ice buoy retrieval (SB06); CTD - Niskin (500 m); CTD - GoFlo (500 m); McLane Pumps; Marine Snow Catcher; Frazil sampler; Pancake ice lifting. Notes: last 2 activities moved to new position for proper conditions. Incident with pancake hitting on ship side. Structurally compromised pancake but used for bio and chemistry
+53,AM01323,22WIN14.1,SB04,2022/07/24 07:30,-59.16485,0.85777,2022/07/24 08:55,-59.16192,0.87292,,Sea ice buoy retrieval (SB04); Pancake ice lifting. Notes: additional pancake lifting
+53,,22WIN14.2,LP4,2022/07/24 11:40,-59.0608,0.59938,,,,,Wave buoy retrieval (LP4)
+53,,22WIN14.3,SB01,2022/07/24 12:08,-59.11265,0.65782,,,,,Sea ice buoy: retrieval (SB01)
+53,,22WIN14.4,SB05,2022/07/24 14:10,-58.97438,1.00705,,,,,Sea ice buoy: retrieval (SB05); Wave buoy: redeployment (LP4)
+53,,22WIN14.5,LP8,2022/07/24 17:41,-58.5792,0.46542,,,,,Wave buoy retrieval (LP8)
+53,AM01324,22WIN15,SAZr(PS),2022/07/26 20:31,-46.99972,0.00195,2022/07/27 08:54,-46.9999,-0.00037,3535,"CTD - GoFlo (bottom), CTD - Niskin (500 m, 2000 m, 500 m + PAR); McLane Pumps; Marine Snow Catcher; Ship manoeuvres; Wave buoy redeployment (LP8)"
+53,AM01325,22WIN16,STZ(PS),2022/07/29 11:13,-38.06888,10.9537,2022/07/29 16:52,-38.03702,10.89558,5270,"CTD - GoFlo (3000 m); CTD - Niskin (500 m + PAR, 2000 m + salinity calibration 50-175-400-1000-2000); McLane Pumps. Notes: very rough seas. Niskin-500: started from 10 m. Niskin-2000: bottle 5 removed, 750 m fired at 995 m."
