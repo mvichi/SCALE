@@ -31,12 +31,13 @@ fol_sharc = kml.newfolder(name="SHARC buoys")
 
 
 #%% Create styles for buoys
-colors = ['FFFFFFAA', 'FFF08C14', 'FFFF78F0', 'FF1478C8', 'FF1478FF', 'FFC8C8C8']
+colors = ['FFFFFFAA', 'FFFFFF00', 'FFFF78F0', 'FF1478C8', 'FF1478FF', 'FFC8C8C8']
 buoy_style = []
 for b in range(len(SB)):
     style = simplekml.Style()
     style.labelstyle.scale = 0.7  # Text 
-    style.iconstyle.color = colors[b]  # Red
+    style.iconstyle.color = simplekml.Color.white
+    style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/{0}.png'.format(b+1)
     style.iconstyle.scale = 1  # Icon
     buoy_style.append(style)
     
@@ -48,10 +49,20 @@ for b in range(len(SB)):
     for i in range(len(buoy)):
         pnt = fol_buoy.newpoint(coords=[(buoy['GPS Longitude'][i],
                                          buoy['GPS Latitude'][i])],
-                                 name=SB[b])
+                                 )
         pnt.timestamp.when = ts_buoy[i]
         pnt.style = buoy_style[b] 
+        pnt.extendeddata.newdata(name='Name', 
+                                 value=SB[b])
         pnt.extendeddata.newdata(name='Datetime',
                                  value=ts_buoy[i])
+    fol_track = fol_sharc.newfolder(name=SB[b]+'_track')
+    for i in range(1,len(buoy)-1):
+        line=fol_track.newlinestring(coords=[(buoy['GPS Longitude'][i-1],
+                                         buoy['GPS Latitude'][i-1]),
+                                       (buoy['GPS Longitude'][i],
+                                        buoy['GPS Latitude'][i])])
+        line.timestamp.when = ts_buoy[i-1]
+        line.style.linestyle.color = simplekml.Color.white
 
 kml.save(DIR+'../kml/SCALE-WIN22-SHARC.kml')
