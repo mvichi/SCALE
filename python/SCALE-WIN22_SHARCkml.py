@@ -38,7 +38,7 @@ for b in range(len(SB)):
     style.labelstyle.scale = 0.7  # Text 
     style.iconstyle.color = simplekml.Color.white
     style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/{0}.png'.format(b+1)
-    style.iconstyle.scale = 1  # Icon
+    style.iconstyle.scale = 1  # Icon scale
     buoy_style.append(style)
     
 for b in range(len(SB)):
@@ -57,7 +57,7 @@ for b in range(len(SB)):
         pnt.extendeddata.newdata(name='Datetime',
                                  value=ts_buoy[i])
     fol_track = fol_sharc.newfolder(name=SB[b]+'_track')
-    for i in range(1,len(buoy)-1):
+    for i in range(1,len(buoy)):
         line=fol_track.newlinestring(coords=[(buoy['GPS Longitude'][i-1],
                                          buoy['GPS Latitude'][i-1]),
                                        (buoy['GPS Longitude'][i],
