@@ -36,7 +36,7 @@ buoy_style = []
 for b in range(len(SB)):
     style = simplekml.Style()
     style.labelstyle.scale = 0.7  # Text 
-    style.iconstyle.color = simplekml.Color.white
+    style.iconstyle.color = simplekml.Color.red
     style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/{0}.png'.format(b+1)
     style.iconstyle.scale = 1  # Icon scale
     buoy_style.append(style)
