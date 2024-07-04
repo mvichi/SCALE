@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="116935">
+        <name>SCALE-WIN22-SAR</name>
+        <Folder id="116936">
+            <name>TerraSARx</name>
+            <Folder id="116938">
+                <name>TSX1_20220714T1941</name>
+                <TimeSpan id="116939">
+                    <begin>2022-07-14</begin>
+                    <end>2022-07-14T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="116940">
+                    <Style id="116943">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TSX1_20220714T1941</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 0</name>
+                    <styleUrl>#116943</styleUrl>
+                    <Icon id="116941">
+                        <href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220714T194156_20220714T194221_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-6.430823,-60.760514,0.0 -1.864398,-60.760514,0.0 -1.864398,-58.558039,0.0 -6.430823,-58.558039,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="116945">
+                <name>TDX1_20220715T1924-StripMap</name>
+                <TimeSpan id="116946">
+                    <begin>2022-07-15</begin>
+                    <end>2022-07-15T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="116947">
+                    <Style id="116950">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TDX1_20220715T1924-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 0</name>
+                    <styleUrl>#116950</styleUrl>
+                    <Icon id="116948">
+                        <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192432_20220715T192440_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>0.730675,-60.99360099999999,0.0 1.700368,-60.99360099999999,0.0 1.700368,-60.416714,0.0 0.730675,-60.416714,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="116952">
+                    <Style id="116955">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TDX1_20220715T1924-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 1</name>
+                    <styleUrl>#116955</styleUrl>
+                    <Icon id="116953">
+                        <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192439_20220715T192447_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>0.340413,-60.55531400000001,0.0 1.293113,-60.55531400000001,0.0 1.293113,-59.978794,0.0 0.340413,-59.978794,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="116957">
+                    <Style id="116960">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TDX1_20220715T1924-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 2</name>
+                    <styleUrl>#116960</styleUrl>
+                    <Icon id="116958">
+                        <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192447_20220715T192455_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-0.046884,-60.107723,0.0 0.8890570000000001,-60.107723,0.0 0.8890570000000001,-59.531573,0.0 -0.046884,-59.531573,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="116962">
+                    <Style id="116965">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TDX1_20220715T1924-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 3</name>
+                    <styleUrl>#116965</styleUrl>
+                    <Icon id="116963">
+                        <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192455_20220715T192502_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-0.4369170000000001,-59.6618,0.0 0.495442,-59.6618,0.0 0.495442,-59.083222,0.0 -0.4369170000000001,-59.083222,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="116967">
+                    <Style id="116970">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TDX1_20220715T1924-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 4</name>
+                    <styleUrl>#116970</styleUrl>
+                    <Icon id="116968">
+                        <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192502_20220715T192510_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-0.804674,-59.211939,0.0 0.09181700000000001,-59.211939,0.0 0.09181700000000001,-58.638256,0.0 -0.804674,-58.638256,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="116972">
+                    <Style id="116975">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TDX1_20220715T1924-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 5</name>
+                    <styleUrl>#116975</styleUrl>
+                    <Icon id="116973">
+                        <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192510_20220715T192518_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-1.163353,-58.761057,0.0 -0.28194,-58.761057,0.0 -0.28194,-58.187674,0.0 -1.163353,-58.187674,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="116977">
+                <name>TDX1_20220716T1907</name>
+                <TimeSpan id="116978">
+                    <begin>2022-07-16</begin>
+                    <end>2022-07-16T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="116979">
+                    <Style id="116982">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TDX1_20220716T1907</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 0</name>
+                    <styleUrl>#116982</styleUrl>
+                    <Icon id="116980">
+                        <href>TerraSARx_images/TDX1_SAR__MGD_RE___SC_S_SRA_20220716T190807_20220716T190832_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-2.667794,-59.014271,0.0 2.760468,-59.014271,0.0 2.760468,-56.63311900000001,0.0 -2.667794,-56.63311900000001,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="116984">
+                <name>TSX1_20220720T1933</name>
+                <TimeSpan id="116985">
+                    <begin>2022-07-20</begin>
+                    <end>2022-07-20T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="116986">
+                    <Style id="116989">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TSX1_20220720T1933</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 0</name>
+                    <styleUrl>#116989</styleUrl>
+                    <Icon id="116987">
+                        <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044710_20220721T044717_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-3.84668,-61.516992,0.0 1.023642,-61.516992,0.0 1.023642,-59.080032,0.0 -3.84668,-59.080032,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="116991">
+                <name>TSX1_20220721T0447-StripMap</name>
+                <TimeSpan id="116992">
+                    <begin>2022-07-21</begin>
+                    <end>2022-07-21T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="116993">
+                    <Style id="116996">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TSX1_20220721T0447-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 0</name>
+                    <styleUrl>#116996</styleUrl>
+                    <Icon id="116994">
+                        <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044710_20220721T044717_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-0.862946,-58.35312399999999,0.0 -0.05488100000000001,-58.35312399999999,0.0 -0.05488100000000001,-57.850395,0.0 -0.862946,-57.850395,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="116998">
+                    <Style id="117001">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TSX1_20220721T0447-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 1</name>
+                    <styleUrl>#117001</styleUrl>
+                    <Icon id="116999">
+                        <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044717_20220721T044723_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-1.155279,-58.730018,0.0 -0.336302,-58.730018,0.0 -0.336302,-58.226839,0.0 -1.155279,-58.226839,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="117003">
+                    <Style id="117006">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TSX1_20220721T0447-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 2</name>
+                    <styleUrl>#117006</styleUrl>
+                    <Icon id="117004">
+                        <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044723_20220721T044730_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-1.460438,-59.11455099999999,0.0 -0.62987,-59.11455099999999,0.0 -0.62987,-58.610916,0.0 -1.460438,-58.610916,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+                <GroundOverlay id="117008">
+                    <Style id="117011">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TSX1_20220721T0447-StripMap</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 3</name>
+                    <styleUrl>#117011</styleUrl>
+                    <Icon id="117009">
+                        <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044730_20220721T044736_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-1.772161,-59.498396,0.0 -0.929739,-59.498396,0.0 -0.929739,-58.994299,0.0 -1.772161,-58.994299,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117013">
+                <name>TSX1_20220721T1916</name>
+                <TimeSpan id="117014">
+                    <begin>2022-07-21</begin>
+                    <end>2022-07-21T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117015">
+                    <Style id="117018">
+                        <BalloonStyle>
+                            <bgColor>ff90ee90</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>TerraSAR-x: TSX1_20220721T1916</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>TSX image 0</name>
+                    <styleUrl>#117018</styleUrl>
+                    <Icon id="117016">
+                        <href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220721T191628_20220721T191650_EPSG4326_QL_KMZ.png</href>
+                    </Icon>
+                    <gx:LatLonQuad>
+                        <coordinates>-2.217305,-59.626609,0.0 0.481039,-59.626609,0.0 0.481039,-57.967833,0.0 -2.217305,-57.967833,0.0</coordinates>
+                    </gx:LatLonQuad>
+                </GroundOverlay>
+            </Folder>
+        </Folder>
+        <Folder id="116937">
+            <name>Cosmo SkyMed SAR</name>
+            <Folder id="117020">
+                <name>CSK_20220721T1736</name>
+                <TimeSpan id="117021">
+                    <begin>2022-07-21</begin>
+                    <end>2022-07-21T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117022">
+                    <Style id="117025">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220721T1736</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117025</styleUrl>
+                    <Icon id="117023">
+                        <href>CSK_images/CSK_202207211736.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-58.41954455538175</north>
+                        <south>-59.52267572428052</south>
+                        <east>0.6423025678704142</east>
+                        <west>-2.156398699803955</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117027">
+                <name>CSK_20220722T0702</name>
+                <TimeSpan id="117028">
+                    <begin>2022-07-22</begin>
+                    <end>2022-07-22T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117029">
+                    <Style id="117032">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220722T0702</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117032</styleUrl>
+                    <Icon id="117030">
+                        <href>CSK_images/CSK_202207220702.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-57.96073298324851</north>
+                        <south>-59.45359823816254</south>
+                        <east>1.893247356767542</east>
+                        <west>-1.491065644624343</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117034">
+                <name>CSK_20220723T0720</name>
+                <TimeSpan id="117035">
+                    <begin>2022-07-23</begin>
+                    <end>2022-07-23T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117036">
+                    <Style id="117039">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220723T0720</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117039</styleUrl>
+                    <Icon id="117037">
+                        <href>CSK_images/CSK_202207230720.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-58.5483087963267</north>
+                        <south>-60.02621710176014</south>
+                        <east>-0.08252666663084884</east>
+                        <west>-3.35203497471226</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117041">
+                <name>CSK_20220723T1635</name>
+                <TimeSpan id="117042">
+                    <begin>2022-07-23</begin>
+                    <end>2022-07-23T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117043">
+                    <Style id="117046">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220723T1635</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117046</styleUrl>
+                    <Icon id="117044">
+                        <href>CSK_images/CSK_202207231635.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-58.07160111405617</north>
+                        <south>-59.47746453370322</south>
+                        <east>0.9816422836974352</east>
+                        <west>-2.309784917316492</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117048">
+                <name>CSK_20220724T0708</name>
+                <TimeSpan id="117049">
+                    <begin>2022-07-24</begin>
+                    <end>2022-07-24T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117050">
+                    <Style id="117053">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220724T0708</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117053</styleUrl>
+                    <Icon id="117051">
+                        <href>CSK_images/CSK_202207240708.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-58.36417994826953</north>
+                        <south>-59.85825792881712</south>
+                        <east>0.7196463432704894</east>
+                        <west>-2.70670781341819</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117055">
+                <name>CSK_20220724T1617</name>
+                <TimeSpan id="117056">
+                    <begin>2022-07-24</begin>
+                    <end>2022-07-24T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117057">
+                    <Style id="117060">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220724T1617</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117060</styleUrl>
+                    <Icon id="117058">
+                        <href>CSK_images/CSK_202207241617.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-58.4069297180352</north>
+                        <south>-59.88214307761628</south>
+                        <east>1.744272009034147</east>
+                        <west>-1.510144602274056</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117062">
+                <name>CSK_20220725T0708</name>
+                <TimeSpan id="117063">
+                    <begin>2022-07-25</begin>
+                    <end>2022-07-25T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117064">
+                    <Style id="117067">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220725T0708</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117067</styleUrl>
+                    <Icon id="117065">
+                        <href>CSK_images/CSK_202207250708.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-57.42037206702465</north>
+                        <south>-58.90582622084469</south>
+                        <east>-0.08959033247783843</east>
+                        <west>-3.417309470970194</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117069">
+                <name>CSK_20220728T0702</name>
+                <TimeSpan id="117070">
+                    <begin>2022-07-28</begin>
+                    <end>2022-07-28T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117071">
+                    <Style id="117074">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220728T0702</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117074</styleUrl>
+                    <Icon id="117072">
+                        <href>CSK_images/CSK_202207280702.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-58.20248626000765</north>
+                        <south>-59.610595467865</south>
+                        <east>0.68630227359666</east>
+                        <west>-2.622192917815538</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+            <Folder id="117076">
+                <name>CSK_20220728T1553</name>
+                <TimeSpan id="117077">
+                    <begin>2022-07-28</begin>
+                    <end>2022-07-28T23:59</end>
+                </TimeSpan>
+                <GroundOverlay id="117078">
+                    <Style id="117081">
+                        <BalloonStyle>
+                            <bgColor>ffe0ffff</bgColor>
+                            <textColor>ffff0000</textColor>
+                            <text>Cosmo SkyMed: CSK_20220728T1553</text>
+                            <displayMode>default</displayMode>
+                        </BalloonStyle>
+                    </Style>
+                    <name>CSK image</name>
+                    <styleUrl>#117081</styleUrl>
+                    <Icon id="117079">
+                        <href>CSK_images/CSK_202207281553.png</href>
+                    </Icon>
+                    <LatLonBox>
+                        <north>-58.08629935011916</north>
+                        <south>-59.50060693343693</south>
+                        <east>0.6371632038327015</east>
+                        <west>-2.110603587232091</west>
+                    </LatLonBox>
+                </GroundOverlay>
+            </Folder>
+        </Folder>
+    </Document>
+</kml>
