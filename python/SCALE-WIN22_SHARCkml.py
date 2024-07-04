@@ -30,16 +30,19 @@ kml.document.name = 'SCALE-WIN22-SHARC'
 fol_sharc = kml.newfolder(name="SHARC buoys")
 
 
-#%% Create styles for buoys
-colors = ['FFFFFFAA', 'FFFFFF00', 'FFFF78F0', 'FF1478C8', 'FF1478FF', 'FFC8C8C8']
+#%% Add the map elements
+# Create styles for buoys
 buoy_style = []
 for b in range(len(SB)):
     style = simplekml.Style()
     style.labelstyle.scale = 0.7  # Text 
-    style.iconstyle.color = simplekml.Color.red
     style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/{0}.png'.format(b+1)
     style.iconstyle.scale = 1  # Icon scale
     buoy_style.append(style)
+
+# Create syle for buoy tracks
+track_style = simplekml.Style()
+track_style.linestyle.color = simplekml.Color.red
     
 for b in range(len(SB)):
     buoy = sdf[sdf['Device Name'] == SB[b]]
@@ -63,6 +66,6 @@ for b in range(len(SB)):
                                        (buoy['GPS Longitude'][i],
                                         buoy['GPS Latitude'][i])])
         line.timestamp.when = ts_buoy[i-1]
-        line.style.linestyle.color = simplekml.Color.white
+        line.style = track_style
 
 kml.save(DIR+'../kml/SCALE-WIN22-SHARC.kml')
