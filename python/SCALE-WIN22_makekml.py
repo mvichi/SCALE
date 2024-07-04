@@ -29,8 +29,13 @@ kml.document.name = 'SCALE-WIN22'
 # style to be used for stations
 stations_style = simplekml.Style()
 stations_style.labelstyle.scale = 1  # Text 
-stations_style.iconstyle.color = 'ff0000ff'  # Red
+stations_style.iconstyle.color = simplekml.Color.red
 stations_style.iconstyle.scale = 1  # Icon
+
+# style for ship track
+track_style = simplekml.Style()
+track_style.linestyle.color = simplekml.Color.whitesmoke
+track_style.linestyle.scale = 1.5
 
 # overlay SCALE logo
 screen = kml.newscreenoverlay(name='SCALE logo')
@@ -66,6 +71,7 @@ for i in range(1,len(sds)-1):
                                    (sds['LON_DEC'][i],
                                     sds['LAT_DEC'][i])])
     line.timestamp.when = ts_track[i-1]
+    line.style = track_style
 
 # add placemarks for CSK SAR images
 CSK_time = [
@@ -84,6 +90,7 @@ for i in range(len(CSK_time)):
     p = sds.loc[CSK_time[i]]
     pnt = fol_CSK.newpoint(coords=[(p.LON_DEC, p.LAT_DEC)],
                            name='CSK'+CSK_time[i])
+    pnt.iconstyle.color = simplekml.Color.yellow
     pnt.labelstyle.scale = 0.7  # Text
     pnt.timestamp.when = CSK_time[i]
     pnt.extendeddata.newdata(name='DATE',value=CSK_time[i])
@@ -104,7 +111,7 @@ for i in range(len(TSX_time)):
     p = sds.loc[TSX_time[i]]
     pnt = fol_TSX.newpoint(coords=[(p.LON_DEC, p.LAT_DEC)],
                            name='TSX'+TSX_time[i])
-    pnt.iconstyle.color = 'ff00ff00' # green
+    pnt.iconstyle.color = simplekml.Color.green
     pnt.labelstyle.scale = 0.7  # Text
     pnt.timestamp.when = TSX_time[i]
     pnt.extendeddata.newdata(name='DATE',value=TSX_time[i])
