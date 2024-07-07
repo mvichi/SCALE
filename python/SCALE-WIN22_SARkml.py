@@ -58,7 +58,7 @@ tsx = [
     
 {'name':'TSX1_20220720T1933',
  'begin':'2022-07-20',
- 'file':['TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044710_20220721T044717_EPSG4326_QL_KMZ.png'],
+ 'file':['TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220720T193306_20220720T193335_EPSG4326_QL_KMZ.png'],
  'coords':[[(-3.84668,-61.516992),(1.023642,-61.516992),
            (1.023642,-59.080032),(-3.84668,-59.080032)]
            ]

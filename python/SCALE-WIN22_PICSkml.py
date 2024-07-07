@@ -61,7 +61,7 @@ for i,p in enumerate(pics):
     path = kml.addfile(DIRIMG+p)
     pnt = fol_A.newpoint(coords=[(a_sds['LON_DEC'][i],
                               a_sds['LAT_DEC'][i])],
-                         name=a_sds.index[i].strftime('%Y/%m/%dT%H:%M'))
+                         name=a_sds.index[i].strftime('%m/%dT%H:%M'))
     pnt.description = '<img src=' + path +' alt=picture width=400 height=300 align=left />'
     pnt.style = style
     # pnt.extendeddata.newdata(name='DATETIME',
