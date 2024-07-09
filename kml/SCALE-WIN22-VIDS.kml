@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="221506">
+        <name>SCALE-WIN22-VIDS</name>
+        <Folder id="221507">
+            <Style id="221508">
+                <IconStyle id="221510">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="221511">
+                        <href>http://maps.google.com/mapfiles/kml/pal2/icon22.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="221509">
+                    <colorMode>normal</colorMode>
+                    <scale>0.5</scale>
+                </LabelStyle>
+            </Style>
+            <name>Port Camera Footages</name>
+            <Placemark id="221513">
+                <name>07/19T06:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=0&quot;&gt;https://youtu.be/By7bqU9kLj0?t=0&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221512">
+                    <coordinates>-1.2243,-58.02535,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221515">
+                <name>07/19T07:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=73&quot;&gt;https://youtu.be/By7bqU9kLj0?t=73&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221514">
+                    <coordinates>-1.32382,-58.18865,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221517">
+                <name>07/19T08:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=146&quot;&gt;https://youtu.be/By7bqU9kLj0?t=146&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221516">
+                    <coordinates>-1.33797,-58.29262,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221519">
+                <name>07/19T09:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=219&quot;&gt;https://youtu.be/By7bqU9kLj0?t=219&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221518">
+                    <coordinates>-1.31108,-58.282,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221521">
+                <name>07/19T10:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=292&quot;&gt;https://youtu.be/By7bqU9kLj0?t=292&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221520">
+                    <coordinates>-1.29592,-58.32525,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221523">
+                <name>07/19T11:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=365&quot;&gt;https://youtu.be/By7bqU9kLj0?t=365&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221522">
+                    <coordinates>-1.28167,-58.54087,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221525">
+                <name>07/19T12:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=438&quot;&gt;https://youtu.be/By7bqU9kLj0?t=438&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221524">
+                    <coordinates>-1.26688,-58.66967,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221527">
+                <name>07/19T13:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=511&quot;&gt;https://youtu.be/By7bqU9kLj0?t=511&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221526">
+                    <coordinates>-1.2344,-58.66993,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221529">
+                <name>07/19T14:43</name>
+                <description>&lt;a href=&quot;https://youtu.be/By7bqU9kLj0?t=584&quot;&gt;https://youtu.be/By7bqU9kLj0?t=584&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221528">
+                    <coordinates>-1.20145,-58.66932,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221531">
+                <name>07/20T14:50</name>
+                <description>&lt;a href=&quot;https://youtu.be/99kqujHveJU?t=10&quot;&gt;https://youtu.be/99kqujHveJU?t=10&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221530">
+                    <coordinates>-0.62433,-58.83633,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221533">
+                <name>07/20T15:50</name>
+                <description>&lt;a href=&quot;https://youtu.be/99kqujHveJU?t=83&quot;&gt;https://youtu.be/99kqujHveJU?t=83&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221532">
+                    <coordinates>-0.60645,-58.83218,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221535">
+                <name>07/20T16:50</name>
+                <description>&lt;a href=&quot;https://youtu.be/99kqujHveJU?t=156&quot;&gt;https://youtu.be/99kqujHveJU?t=156&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221534">
+                    <coordinates>-0.55927,-58.90965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221537">
+                <name>07/20T17:50</name>
+                <description>&lt;a href=&quot;https://youtu.be/99kqujHveJU?t=229&quot;&gt;https://youtu.be/99kqujHveJU?t=229&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221536">
+                    <coordinates>-0.5124,-59.00438,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221539">
+                <name>07/20T18:50</name>
+                <description>&lt;a href=&quot;https://youtu.be/99kqujHveJU?t=302&quot;&gt;https://youtu.be/99kqujHveJU?t=302&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221538">
+                    <coordinates>-0.5066,-59.04305,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221541">
+                <name>07/20T19:50</name>
+                <description>&lt;a href=&quot;https://youtu.be/99kqujHveJU?t=375&quot;&gt;https://youtu.be/99kqujHveJU?t=375&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221540">
+                    <coordinates>-0.50255,-59.01528,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221543">
+                <name>07/21T08:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=0&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=0&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221542">
+                    <coordinates>-0.54318,-58.3607,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221545">
+                <name>07/21T09:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=73&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=73&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221544">
+                    <coordinates>-0.54312,-58.3607,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221547">
+                <name>07/21T10:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=146&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=146&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221546">
+                    <coordinates>-0.53122,-58.3642,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221549">
+                <name>07/21T11:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=219&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=219&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221548">
+                    <coordinates>-0.54198,-58.3787,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221551">
+                <name>07/21T12:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=292&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=292&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221550">
+                    <coordinates>-0.54727,-58.37802,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221553">
+                <name>07/21T13:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=365&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=365&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221552">
+                    <coordinates>-0.49448,-58.3731,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221555">
+                <name>07/21T14:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=438&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=438&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221554">
+                    <coordinates>-0.60818,-58.39277,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221557">
+                <name>07/21T15:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=511&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=511&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221556">
+                    <coordinates>-0.64937,-58.40125,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221559">
+                <name>07/21T16:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=584&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=584&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221558">
+                    <coordinates>-0.64935,-58.40125,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221561">
+                <name>07/21T17:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=657&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=657&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221560">
+                    <coordinates>-0.64933,-58.40123,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221563">
+                <name>07/21T18:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=730&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=730&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221562">
+                    <coordinates>-0.64937,-58.40127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221565">
+                <name>07/21T19:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=803&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=803&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221564">
+                    <coordinates>-0.64935,-58.40127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221567">
+                <name>07/21T20:54</name>
+                <description>&lt;a href=&quot;https://youtu.be/qcYxVmzU_jY?t=876&quot;&gt;https://youtu.be/qcYxVmzU_jY?t=876&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221566">
+                    <coordinates>-0.7623,-58.45397,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221569">
+                <name>07/21T22:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=0&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=0&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221568">
+                    <coordinates>-0.55512,-58.5146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221571">
+                <name>07/21T23:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=73&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=73&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221570">
+                    <coordinates>-0.61352,-58.54398,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221573">
+                <name>07/22T00:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=146&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=146&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221572">
+                    <coordinates>-0.85045,-58.5925,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221575">
+                <name>07/22T01:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=219&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=219&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221574">
+                    <coordinates>-1.05087,-58.66437,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221577">
+                <name>07/22T02:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=292&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=292&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221576">
+                    <coordinates>-1.2052,-58.77203,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221579">
+                <name>07/22T03:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=365&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=365&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221578">
+                    <coordinates>-1.25077,-58.85295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221581">
+                <name>07/22T04:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=438&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=438&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221580">
+                    <coordinates>-1.14013,-58.92892,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221583">
+                <name>07/22T05:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=511&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=511&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221582">
+                    <coordinates>-0.94412,-58.82472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221585">
+                <name>07/22T06:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=584&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=584&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221584">
+                    <coordinates>-0.75557,-58.9253,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221587">
+                <name>07/22T07:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=657&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=657&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221586">
+                    <coordinates>-0.83593,-59.02533,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221589">
+                <name>07/22T08:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=730&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=730&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221588">
+                    <coordinates>-0.8541,-59.18532,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221591">
+                <name>07/22T09:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=803&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=803&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221590">
+                    <coordinates>-0.59063,-59.35212,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221593">
+                <name>07/22T10:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=876&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=876&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221592">
+                    <coordinates>-0.51415,-59.39387,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221595">
+                <name>07/22T11:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=949&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=949&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221594">
+                    <coordinates>-0.51005,-59.40547,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221597">
+                <name>07/22T12:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1022&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1022&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221596">
+                    <coordinates>-0.41717,-59.48515,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221599">
+                <name>07/22T13:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1095&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1095&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221598">
+                    <coordinates>-0.41692,-59.50798,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221601">
+                <name>07/22T14:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1168&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1168&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221600">
+                    <coordinates>-0.4165,-59.5247,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221603">
+                <name>07/22T15:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1241&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1241&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221602">
+                    <coordinates>-0.43468,-59.52218,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221605">
+                <name>07/22T16:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1314&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1314&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221604">
+                    <coordinates>-0.42825,-59.54078,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221607">
+                <name>07/22T17:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1387&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1387&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221606">
+                    <coordinates>-0.41137,-59.55897,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221609">
+                <name>07/22T18:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1460&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1460&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221608">
+                    <coordinates>-0.38568,-59.57173,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221611">
+                <name>07/22T19:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1533&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1533&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221610">
+                    <coordinates>-0.35037,-59.57492,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221613">
+                <name>07/22T20:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/oIuuyWDEQjU?t=1606&quot;&gt;https://youtu.be/oIuuyWDEQjU?t=1606&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221612">
+                    <coordinates>-0.26547,-59.48115,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221615">
+                <name>07/22T22:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=0&quot;&gt;https://youtu.be/jG5n_TukoN8?t=0&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221614">
+                    <coordinates>-0.14845,-59.4768,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221617">
+                <name>07/22T23:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=73&quot;&gt;https://youtu.be/jG5n_TukoN8?t=73&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221616">
+                    <coordinates>-0.08282,-59.52695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221619">
+                <name>07/23T00:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=146&quot;&gt;https://youtu.be/jG5n_TukoN8?t=146&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221618">
+                    <coordinates>-0.0306,-59.42653,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221621">
+                <name>07/23T01:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=219&quot;&gt;https://youtu.be/jG5n_TukoN8?t=219&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221620">
+                    <coordinates>-0.12303,-59.29843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221623">
+                <name>07/23T02:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=292&quot;&gt;https://youtu.be/jG5n_TukoN8?t=292&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221622">
+                    <coordinates>-0.13455,-59.29077,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221625">
+                <name>07/23T03:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=365&quot;&gt;https://youtu.be/jG5n_TukoN8?t=365&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221624">
+                    <coordinates>-0.13453,-59.29077,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221627">
+                <name>07/23T04:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=438&quot;&gt;https://youtu.be/jG5n_TukoN8?t=438&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221626">
+                    <coordinates>-0.13452,-59.29078,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221629">
+                <name>07/23T05:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=511&quot;&gt;https://youtu.be/jG5n_TukoN8?t=511&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221628">
+                    <coordinates>-0.13447,-59.29077,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221631">
+                <name>07/23T06:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=584&quot;&gt;https://youtu.be/jG5n_TukoN8?t=584&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221630">
+                    <coordinates>-0.13517,-59.29062,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221633">
+                <name>07/23T07:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=657&quot;&gt;https://youtu.be/jG5n_TukoN8?t=657&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221632">
+                    <coordinates>0.00933,-59.39428,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221635">
+                <name>07/23T08:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=730&quot;&gt;https://youtu.be/jG5n_TukoN8?t=730&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221634">
+                    <coordinates>0.04123,-59.38492,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221637">
+                <name>07/23T09:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=803&quot;&gt;https://youtu.be/jG5n_TukoN8?t=803&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221636">
+                    <coordinates>0.09113,-59.39823,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221639">
+                <name>07/23T10:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=876&quot;&gt;https://youtu.be/jG5n_TukoN8?t=876&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221638">
+                    <coordinates>0.11053,-59.39698,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221641">
+                <name>07/23T11:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=949&quot;&gt;https://youtu.be/jG5n_TukoN8?t=949&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221640">
+                    <coordinates>0.13085,-59.4003,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221643">
+                <name>07/23T12:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1022&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1022&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221642">
+                    <coordinates>0.1312,-59.40037,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221645">
+                <name>07/23T13:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1095&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1095&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221644">
+                    <coordinates>0.1312,-59.40037,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221647">
+                <name>07/23T14:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1168&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1168&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221646">
+                    <coordinates>0.13108,-59.40033,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221649">
+                <name>07/23T15:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1241&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1241&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221648">
+                    <coordinates>0.13143,-59.40007,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221651">
+                <name>07/23T16:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1314&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1314&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221650">
+                    <coordinates>0.1625,-59.37848,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221653">
+                <name>07/23T17:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1387&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1387&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221652">
+                    <coordinates>0.16197,-59.3786,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221655">
+                <name>07/23T18:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1460&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1460&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221654">
+                    <coordinates>0.1446,-59.37345,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221657">
+                <name>07/23T19:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1533&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1533&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221656">
+                    <coordinates>0.1575,-59.38258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221659">
+                <name>07/23T20:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/jG5n_TukoN8?t=1606&quot;&gt;https://youtu.be/jG5n_TukoN8?t=1606&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221658">
+                    <coordinates>0.16147,-59.3845,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221661">
+                <name>07/23T22:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=0&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=0&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221660">
+                    <coordinates>0.23732,-59.42572,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221663">
+                <name>07/23T23:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=73&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=73&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221662">
+                    <coordinates>0.36817,-59.39475,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221665">
+                <name>07/24T00:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=146&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=146&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221664">
+                    <coordinates>0.49108,-59.35392,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221667">
+                <name>07/24T01:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=219&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=219&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221666">
+                    <coordinates>0.61923,-59.31028,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221669">
+                <name>07/24T02:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=292&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=292&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221668">
+                    <coordinates>0.72785,-59.27413,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221671">
+                <name>07/24T03:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=365&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=365&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221670">
+                    <coordinates>0.80558,-59.22943,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221673">
+                <name>07/24T04:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=438&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=438&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221672">
+                    <coordinates>0.84048,-59.18572,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221675">
+                <name>07/24T05:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=511&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=511&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221674">
+                    <coordinates>0.83555,-59.16595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221677">
+                <name>07/24T06:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=584&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=584&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221676">
+                    <coordinates>0.81802,-59.16595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221679">
+                <name>07/24T07:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=657&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=657&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221678">
+                    <coordinates>0.83467,-59.16768,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221681">
+                <name>07/24T08:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=730&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=730&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221680">
+                    <coordinates>0.86728,-59.16368,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221683">
+                <name>07/24T09:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=803&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=803&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221682">
+                    <coordinates>0.873,-59.1619,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221685">
+                <name>07/24T10:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=876&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=876&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221684">
+                    <coordinates>0.6875,-59.09278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221687">
+                <name>07/24T11:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=949&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=949&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221686">
+                    <coordinates>0.57003,-59.05625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221689">
+                <name>07/24T12:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=1022&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=1022&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221688">
+                    <coordinates>0.64983,-59.10033,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221691">
+                <name>07/24T13:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=1095&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=1095&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221690">
+                    <coordinates>0.74372,-59.07903,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221693">
+                <name>07/24T14:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=1168&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=1168&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221692">
+                    <coordinates>1.00575,-58.97552,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221695">
+                <name>07/24T15:00</name>
+                <description>&lt;a href=&quot;https://youtu.be/yIUkXXzrxRA?t=1241&quot;&gt;https://youtu.be/yIUkXXzrxRA?t=1241&lt;/a&gt;</description>
+                <styleUrl>#221508</styleUrl>
+                <Point id="221694">
+                    <coordinates>0.89442,-58.88122,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
