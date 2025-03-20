@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="220784">
+    <Document id="1">
         <name>SCALE-WIN22-SAR</name>
-        <Folder id="220785">
+        <Folder id="2">
             <name>TerraSARx</name>
-            <Folder id="220787">
+            <Folder id="4">
                 <name>TSX1_20220714T1941</name>
-                <TimeSpan id="220788">
+                <TimeSpan id="5">
                     <begin>2022-07-14</begin>
                     <end>2022-07-14T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220789">
-                    <Style id="220792">
+                <GroundOverlay id="6">
+                    <Style id="9">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -20,8 +20,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 0</name>
-                    <styleUrl>#220792</styleUrl>
-                    <Icon id="220790">
+                    <styleUrl>#9</styleUrl>
+                    <Icon id="7">
                         <href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220714T194156_20220714T194221_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
@@ -29,14 +29,14 @@
                     </gx:LatLonQuad>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220794">
+            <Folder id="11">
                 <name>TDX1_20220715T1924-StripMap</name>
-                <TimeSpan id="220795">
+                <TimeSpan id="12">
                     <begin>2022-07-15</begin>
                     <end>2022-07-15T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220796">
-                    <Style id="220799">
+                <GroundOverlay id="13">
+                    <Style id="16">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -45,16 +45,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 0</name>
-                    <styleUrl>#220799</styleUrl>
-                    <Icon id="220797">
+                    <styleUrl>#16</styleUrl>
+                    <Icon id="14">
                         <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192432_20220715T192440_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>0.730675,-60.99360099999999,0.0 1.700368,-60.99360099999999,0.0 1.700368,-60.416714,0.0 0.730675,-60.416714,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220801">
-                    <Style id="220804">
+                <GroundOverlay id="18">
+                    <Style id="21">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -63,16 +63,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 1</name>
-                    <styleUrl>#220804</styleUrl>
-                    <Icon id="220802">
+                    <styleUrl>#21</styleUrl>
+                    <Icon id="19">
                         <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192439_20220715T192447_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>0.340413,-60.55531400000001,0.0 1.293113,-60.55531400000001,0.0 1.293113,-59.978794,0.0 0.340413,-59.978794,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220806">
-                    <Style id="220809">
+                <GroundOverlay id="23">
+                    <Style id="26">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -81,16 +81,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 2</name>
-                    <styleUrl>#220809</styleUrl>
-                    <Icon id="220807">
+                    <styleUrl>#26</styleUrl>
+                    <Icon id="24">
                         <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192447_20220715T192455_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>-0.046884,-60.107723,0.0 0.8890570000000001,-60.107723,0.0 0.8890570000000001,-59.531573,0.0 -0.046884,-59.531573,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220811">
-                    <Style id="220814">
+                <GroundOverlay id="28">
+                    <Style id="31">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -99,16 +99,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 3</name>
-                    <styleUrl>#220814</styleUrl>
-                    <Icon id="220812">
+                    <styleUrl>#31</styleUrl>
+                    <Icon id="29">
                         <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192455_20220715T192502_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>-0.4369170000000001,-59.6618,0.0 0.495442,-59.6618,0.0 0.495442,-59.083222,0.0 -0.4369170000000001,-59.083222,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220816">
-                    <Style id="220819">
+                <GroundOverlay id="33">
+                    <Style id="36">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -117,16 +117,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 4</name>
-                    <styleUrl>#220819</styleUrl>
-                    <Icon id="220817">
+                    <styleUrl>#36</styleUrl>
+                    <Icon id="34">
                         <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192502_20220715T192510_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>-0.804674,-59.211939,0.0 0.09181700000000001,-59.211939,0.0 0.09181700000000001,-58.638256,0.0 -0.804674,-58.638256,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220821">
-                    <Style id="220824">
+                <GroundOverlay id="38">
+                    <Style id="41">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -135,8 +135,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 5</name>
-                    <styleUrl>#220824</styleUrl>
-                    <Icon id="220822">
+                    <styleUrl>#41</styleUrl>
+                    <Icon id="39">
                         <href>TerraSARx_images/TDX1_SAR__MGD_SE___SM_S_SRA_20220715T192510_20220715T192518_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
@@ -144,14 +144,14 @@
                     </gx:LatLonQuad>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220826">
+            <Folder id="43">
                 <name>TDX1_20220716T1907</name>
-                <TimeSpan id="220827">
+                <TimeSpan id="44">
                     <begin>2022-07-16</begin>
                     <end>2022-07-16T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220828">
-                    <Style id="220831">
+                <GroundOverlay id="45">
+                    <Style id="48">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -160,8 +160,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 0</name>
-                    <styleUrl>#220831</styleUrl>
-                    <Icon id="220829">
+                    <styleUrl>#48</styleUrl>
+                    <Icon id="46">
                         <href>TerraSARx_images/TDX1_SAR__MGD_RE___SC_S_SRA_20220716T190807_20220716T190832_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
@@ -169,14 +169,14 @@
                     </gx:LatLonQuad>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220833">
+            <Folder id="50">
                 <name>TSX1_20220720T1933</name>
-                <TimeSpan id="220834">
+                <TimeSpan id="51">
                     <begin>2022-07-20</begin>
                     <end>2022-07-20T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220835">
-                    <Style id="220838">
+                <GroundOverlay id="52">
+                    <Style id="55">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -185,8 +185,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 0</name>
-                    <styleUrl>#220838</styleUrl>
-                    <Icon id="220836">
+                    <styleUrl>#55</styleUrl>
+                    <Icon id="53">
                         <href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220720T193306_20220720T193335_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
@@ -194,14 +194,14 @@
                     </gx:LatLonQuad>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220840">
+            <Folder id="57">
                 <name>TSX1_20220721T0447-StripMap</name>
-                <TimeSpan id="220841">
+                <TimeSpan id="58">
                     <begin>2022-07-21</begin>
                     <end>2022-07-21T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220842">
-                    <Style id="220845">
+                <GroundOverlay id="59">
+                    <Style id="62">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -210,16 +210,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 0</name>
-                    <styleUrl>#220845</styleUrl>
-                    <Icon id="220843">
+                    <styleUrl>#62</styleUrl>
+                    <Icon id="60">
                         <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044710_20220721T044717_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>-0.862946,-58.35312399999999,0.0 -0.05488100000000001,-58.35312399999999,0.0 -0.05488100000000001,-57.850395,0.0 -0.862946,-57.850395,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220847">
-                    <Style id="220850">
+                <GroundOverlay id="64">
+                    <Style id="67">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -228,16 +228,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 1</name>
-                    <styleUrl>#220850</styleUrl>
-                    <Icon id="220848">
+                    <styleUrl>#67</styleUrl>
+                    <Icon id="65">
                         <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044717_20220721T044723_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>-1.155279,-58.730018,0.0 -0.336302,-58.730018,0.0 -0.336302,-58.226839,0.0 -1.155279,-58.226839,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220852">
-                    <Style id="220855">
+                <GroundOverlay id="69">
+                    <Style id="72">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -246,16 +246,16 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 2</name>
-                    <styleUrl>#220855</styleUrl>
-                    <Icon id="220853">
+                    <styleUrl>#72</styleUrl>
+                    <Icon id="70">
                         <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044723_20220721T044730_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
                         <coordinates>-1.460438,-59.11455099999999,0.0 -0.62987,-59.11455099999999,0.0 -0.62987,-58.610916,0.0 -1.460438,-58.610916,0.0</coordinates>
                     </gx:LatLonQuad>
                 </GroundOverlay>
-                <GroundOverlay id="220857">
-                    <Style id="220860">
+                <GroundOverlay id="74">
+                    <Style id="77">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -264,8 +264,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 3</name>
-                    <styleUrl>#220860</styleUrl>
-                    <Icon id="220858">
+                    <styleUrl>#77</styleUrl>
+                    <Icon id="75">
                         <href>TerraSARx_images/TSX1_SAR__MGD_SE___SM_S_SRA_20220721T044730_20220721T044736_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
@@ -273,14 +273,14 @@
                     </gx:LatLonQuad>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220862">
+            <Folder id="79">
                 <name>TSX1_20220721T1916</name>
-                <TimeSpan id="220863">
+                <TimeSpan id="80">
                     <begin>2022-07-21</begin>
                     <end>2022-07-21T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220864">
-                    <Style id="220867">
+                <GroundOverlay id="81">
+                    <Style id="84">
                         <BalloonStyle>
                             <bgColor>ff90ee90</bgColor>
                             <textColor>ffff0000</textColor>
@@ -289,8 +289,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>TSX image 0</name>
-                    <styleUrl>#220867</styleUrl>
-                    <Icon id="220865">
+                    <styleUrl>#84</styleUrl>
+                    <Icon id="82">
                         <href>TerraSARx_images/TSX1_SAR__MGD_RE___SC_S_SRA_20220721T191628_20220721T191650_EPSG4326_QL_KMZ.png</href>
                     </Icon>
                     <gx:LatLonQuad>
@@ -299,16 +299,16 @@
                 </GroundOverlay>
             </Folder>
         </Folder>
-        <Folder id="220786">
+        <Folder id="3">
             <name>Cosmo SkyMed SAR</name>
-            <Folder id="220869">
+            <Folder id="86">
                 <name>CSK_20220721T1736</name>
-                <TimeSpan id="220870">
+                <TimeSpan id="87">
                     <begin>2022-07-21</begin>
                     <end>2022-07-21T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220871">
-                    <Style id="220874">
+                <GroundOverlay id="88">
+                    <Style id="91">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -317,26 +317,26 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220874</styleUrl>
-                    <Icon id="220872">
+                    <styleUrl>#91</styleUrl>
+                    <Icon id="89">
                         <href>CSK_images/CSK_202207211736.png</href>
                     </Icon>
                     <LatLonBox>
-                        <north>-58.41954455538175</north>
-                        <south>-59.52267572428052</south>
-                        <east>0.6423025678704142</east>
-                        <west>-2.156398699803955</west>
+                        <north>-58.4203</north>
+                        <south>-59.5207</south>
+                        <east>0.6409</east>
+                        <west>-2.155</west>
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220876">
+            <Folder id="93">
                 <name>CSK_20220722T0702</name>
-                <TimeSpan id="220877">
+                <TimeSpan id="94">
                     <begin>2022-07-22</begin>
                     <end>2022-07-22T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220878">
-                    <Style id="220881">
+                <GroundOverlay id="95">
+                    <Style id="98">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -345,26 +345,26 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220881</styleUrl>
-                    <Icon id="220879">
+                    <styleUrl>#98</styleUrl>
+                    <Icon id="96">
                         <href>CSK_images/CSK_202207220702.png</href>
                     </Icon>
                     <LatLonBox>
-                        <north>-57.96073298324851</north>
-                        <south>-59.45359823816254</south>
-                        <east>1.893247356767542</east>
-                        <west>-1.491065644624343</west>
+                        <north>-57.9634</north>
+                        <south>-59.453</south>
+                        <east>1.8903</east>
+                        <west>-1.4885</west>
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220883">
+            <Folder id="100">
                 <name>CSK_20220723T0720</name>
-                <TimeSpan id="220884">
+                <TimeSpan id="101">
                     <begin>2022-07-23</begin>
                     <end>2022-07-23T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220885">
-                    <Style id="220888">
+                <GroundOverlay id="102">
+                    <Style id="105">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -373,8 +373,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220888</styleUrl>
-                    <Icon id="220886">
+                    <styleUrl>#105</styleUrl>
+                    <Icon id="103">
                         <href>CSK_images/CSK_202207230720.png</href>
                     </Icon>
                     <LatLonBox>
@@ -385,14 +385,14 @@
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220890">
+            <Folder id="107">
                 <name>CSK_20220723T1635</name>
-                <TimeSpan id="220891">
+                <TimeSpan id="108">
                     <begin>2022-07-23</begin>
                     <end>2022-07-23T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220892">
-                    <Style id="220895">
+                <GroundOverlay id="109">
+                    <Style id="112">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -401,8 +401,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220895</styleUrl>
-                    <Icon id="220893">
+                    <styleUrl>#112</styleUrl>
+                    <Icon id="110">
                         <href>CSK_images/CSK_202207231635.png</href>
                     </Icon>
                     <LatLonBox>
@@ -413,14 +413,14 @@
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220897">
+            <Folder id="114">
                 <name>CSK_20220724T0708</name>
-                <TimeSpan id="220898">
+                <TimeSpan id="115">
                     <begin>2022-07-24</begin>
                     <end>2022-07-24T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220899">
-                    <Style id="220902">
+                <GroundOverlay id="116">
+                    <Style id="119">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -429,8 +429,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220902</styleUrl>
-                    <Icon id="220900">
+                    <styleUrl>#119</styleUrl>
+                    <Icon id="117">
                         <href>CSK_images/CSK_202207240708.png</href>
                     </Icon>
                     <LatLonBox>
@@ -441,14 +441,14 @@
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220904">
+            <Folder id="121">
                 <name>CSK_20220724T1617</name>
-                <TimeSpan id="220905">
+                <TimeSpan id="122">
                     <begin>2022-07-24</begin>
                     <end>2022-07-24T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220906">
-                    <Style id="220909">
+                <GroundOverlay id="123">
+                    <Style id="126">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -457,8 +457,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220909</styleUrl>
-                    <Icon id="220907">
+                    <styleUrl>#126</styleUrl>
+                    <Icon id="124">
                         <href>CSK_images/CSK_202207241617.png</href>
                     </Icon>
                     <LatLonBox>
@@ -469,14 +469,14 @@
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220911">
+            <Folder id="128">
                 <name>CSK_20220725T0708</name>
-                <TimeSpan id="220912">
+                <TimeSpan id="129">
                     <begin>2022-07-25</begin>
                     <end>2022-07-25T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220913">
-                    <Style id="220916">
+                <GroundOverlay id="130">
+                    <Style id="133">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -485,8 +485,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220916</styleUrl>
-                    <Icon id="220914">
+                    <styleUrl>#133</styleUrl>
+                    <Icon id="131">
                         <href>CSK_images/CSK_202207250708.png</href>
                     </Icon>
                     <LatLonBox>
@@ -497,14 +497,14 @@
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220918">
+            <Folder id="135">
                 <name>CSK_20220728T0702</name>
-                <TimeSpan id="220919">
+                <TimeSpan id="136">
                     <begin>2022-07-28</begin>
                     <end>2022-07-28T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220920">
-                    <Style id="220923">
+                <GroundOverlay id="137">
+                    <Style id="140">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -513,8 +513,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220923</styleUrl>
-                    <Icon id="220921">
+                    <styleUrl>#140</styleUrl>
+                    <Icon id="138">
                         <href>CSK_images/CSK_202207280702.png</href>
                     </Icon>
                     <LatLonBox>
@@ -525,14 +525,14 @@
                     </LatLonBox>
                 </GroundOverlay>
             </Folder>
-            <Folder id="220925">
+            <Folder id="142">
                 <name>CSK_20220728T1553</name>
-                <TimeSpan id="220926">
+                <TimeSpan id="143">
                     <begin>2022-07-28</begin>
                     <end>2022-07-28T23:59</end>
                 </TimeSpan>
-                <GroundOverlay id="220927">
-                    <Style id="220930">
+                <GroundOverlay id="144">
+                    <Style id="147">
                         <BalloonStyle>
                             <bgColor>ffe0ffff</bgColor>
                             <textColor>ffff0000</textColor>
@@ -541,8 +541,8 @@
                         </BalloonStyle>
                     </Style>
                     <name>CSK image</name>
-                    <styleUrl>#220930</styleUrl>
-                    <Icon id="220928">
+                    <styleUrl>#147</styleUrl>
+                    <Icon id="145">
                         <href>CSK_images/CSK_202207281553.png</href>
                     </Icon>
                     <LatLonBox>
